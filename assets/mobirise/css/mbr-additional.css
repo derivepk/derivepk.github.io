@@ -1416,10 +1416,11 @@ body {
 }
 .cid-rtRNaURIUZ {
   background: #ffffff;
+  padding-top: 105px;
+  padding-bottom: 15px;
 }
 .cid-rtRNaURIUZ .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rtRNaURIUZ .video-block {
