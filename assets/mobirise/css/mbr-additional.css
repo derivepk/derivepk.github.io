@@ -1416,8 +1416,8 @@ body {
 }
 .cid-rtRNaURIUZ {
   background: #ffffff;
-  padding-top: 105px;
-  padding-bottom: 15px;
+  padding-top: 120px;
+  padding-bottom: 0px;
 }
 .cid-rtRNaURIUZ .video-block {
   margin: auto;
@@ -1457,7 +1457,6 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background: #ffffff;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-qZbvcYhMBy .video-block {
   margin: auto;
