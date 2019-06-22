@@ -5537,16 +5537,16 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-ru2ary8kWP {
+.cid-ru8iplsuk9 {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-ru2ary8kWP .mbr-text,
-.cid-ru2ary8kWP blockquote {
+.cid-ru8iplsuk9 .mbr-text,
+.cid-ru8iplsuk9 blockquote {
   color: #767676;
 }
-.cid-ru2ary8kWP .mbr-text {
+.cid-ru8iplsuk9 .mbr-text {
   color: #05032d;
 }
 .cid-ru60XzC7NN {
@@ -8209,19 +8209,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-ru7Yhfby3N .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-ru7Ycpmdi8 {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-ru7Ycpmdi8 .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-ru7Ycpmdi8 .video-block {
     width: 100% !important;
   }
 }
