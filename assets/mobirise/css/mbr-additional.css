@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico:400);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i);
 
 
@@ -29,11 +28,11 @@ body {
   font-size: 8.32rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1.8rem;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 2.2rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 3.52rem;
 }
 .display-4 {
   font-family: 'Alegreya Sans', sans-serif;
@@ -68,9 +67,9 @@ body {
     line-height: calc( 1.4 * (2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.96rem;
@@ -7023,7 +7022,7 @@ body {
   color: #9b0202;
 }
 .cid-rwcvrhUzlZ {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 60px;
   background-color: #8ee4af;
 }
