@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i);
 
 
 
@@ -35,7 +36,7 @@ body {
   font-size: 2.88rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 1.2rem;
 }
 .display-4 > .mbr-iconfont {
@@ -5926,10 +5927,10 @@ body {
   height: 100%;
 }
 .cid-rmHORRght6 .card-title {
-  color: #0c1448;
+  color: #ffffff;
 }
 .cid-rmHORRght6 P {
-  color: #7f1933;
+  color: #ffffff;
 }
 .cid-rtVmrDHLFK .navbar {
   background: #5cdb95;
